@@ -1,0 +1,6 @@
+using data operations :
+
+First follow the Flows what are shared on data operations 
+and then use below link to practice with documentation
+
+https://learn.microsoft.com/en-us/power-automate/data-operations
