@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "FirstName": "Vijay",
+      "LastName": "Perepa"
+    },
+    "age": 30,
+    "city": "Hyderabad",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "JSON"
+    ]
+  },
+  {
+    "id": 2,
+    "name": {
+      "FirstName": "John",
+      "LastName": "Doe"
+    },
+    "age": 25,
+    "city": "New York",
+    "skills": [
+      "JavaScript",
+      "C#",
+      "SQL"
+    ]
+  },
+  {
+    "id": 3,
+    "name": {
+      "FirstName": "Jane",
+      "LastName": "Smith"
+    },
+    "age": 28,
+    "city": "Los Angeles",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React"
+    ]
+  },
+  {
+    "id": 4,
+    "name": {
+      "FirstName": "Emily",
+      "LastName": "Johnson"
+    },
+    "age": 32,
+    "city": "Chicago",
+    "skills": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL"
+    ]
+  }
+]
